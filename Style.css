@@ -1,5 +1,9 @@
-body{
+.lb-background{
   background: lightblue;
+}
+
+.lp-background{
+  background: lightpink;
 }
 
 div{
